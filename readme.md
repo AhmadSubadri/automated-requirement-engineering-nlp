@@ -228,10 +228,3 @@ Dataset tambahan
 - Lebih “portfolio ready”
 
 ---
-
-Kalau kamu mau next level:
-- Tambahin **badge (Python, license, dll)**
-- Tambahin **GIF demo UI**
-- Atau bikin **README versi storytelling (buat HR/portfolio)**
-
-Tinggal bilang 👍
